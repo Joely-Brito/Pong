@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./imagem_pong.png" alt="Jogo Pong">
+    <img src="./imagens/imagem_pong.png" alt="Jogo Pong">
 </div>
 
 ## Sobre o projeto
